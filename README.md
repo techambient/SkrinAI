@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" src="skrinai.png" alt="Ambient Calculator" align="center">
+<img width="200" src="skrinai.png" alt="SkrinAI" align="center">
 
 # SkrinAI
 Best open source AI-powered ultimate screen tool for Windows.  
@@ -25,15 +25,16 @@ Best open source AI-powered ultimate screen tool for Windows.
 ## ⚠️ Requirements
 
 * Windows 8.1+
+* [tesseract-ocr](https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.3) installed on machine
 
 ## 📷 Screenshots
 
 <img src="draw.png" width="100%"/>
-<p> <i>Draw anything on screen</i> </p>
+<p> <i>Screenshot 1: Draw anything on screen</i> </p>
 <img src="search.png" width="100%"/>
-<p> <i>Search anything with Gemini</i> </p>
+<p> <i>Screenshot 2: Search anything with Gemini</i> </p>
 <img src="select.png" width="100%"/>
-<p> <i>Select anything on screen</i> </p>
+<p> <i>Screenshot 3: Select anything on screen</i> </p>
 
 ## 🧑‍💻 Source Code
 * You can view source code [at here](https://techambient.github.io/SkrinAI/source). 
